@@ -1,12 +1,12 @@
 const Discord = require('discord.js');
 const tpoints = {};
-const prefix = ":"
+const prefix = "$"
 const vpoints = {};
 const jimp = require("jimp");
 const client = new Discord.Client();
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
- client.user.setActivity("DEV|CAMPER / :bc",{type: 'watching'})
+ client.user.setActivity("DEV|HALABJAY / $R",{type: 'streaming'})
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
@@ -33,7 +33,7 @@ client.on('ready', () => {
 console.log("CAMPER");
 client.on("message", message => {
 
-            if (message.content.startsWith(prefix + "bc")) {
+            if (message.content.startsWith(prefix + "R")) {
                          if (!message.member.hasPermission("ADMINISTRATOR"))  return;
   let args = message.content.split(" ").slice(1);
   var argresult = args.join(' '); 
@@ -50,4 +50,4 @@ client.on("message", message => {
 
 
 
-client.login("");
+client.login("NzI0Njk0OTM0ODc5MzM4NTU3.XvD6yg.0lRkHrKGnWAaqfW3VioRKQtIx5w");
