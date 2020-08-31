@@ -1,13 +1,13 @@
-token = NzA3NjI2NTI1MTU1MDAwMzcy.Xtp0og.apBrDRZZcyPYADrME7Zie4np5O4
-owner = 703418433752006716
+token = NzQ3NzIxOTI4OTE1MDI1OTMx.X0TATw.JCLcj8t8nxqm3SAnPHbN7InKyKE
+owner = 606386929130405898
 
 
 
-prefix = "-"
+prefix = "c!"
 
 
 
-game = "THEヤTARMAY"
+game = "Camping Till Die"
 
 
 
@@ -20,7 +20,7 @@ songinstatus=false
 altprefix = "NONE"
 
 
-success = "<:Data:718502736945217556>"
+success = "<:Data:606386929130405898>"
 warning = "💡"
 error = "🚫"
 loading = "⌚"
