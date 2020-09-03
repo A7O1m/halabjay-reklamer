@@ -1,13 +1,13 @@
-token = NzQ3NzIxOTI4OTE1MDI1OTMx.X0TATw.JCLcj8t8nxqm3SAnPHbN7InKyKE
+token = "mfa.PWzdG9v2WtFkh0wztCp76HmsTuNKYuwdUiRfH2EMV_SdtwMqqMzsFUUUwLaklaCktmQ7d9XA1Qa1q3dwp2kk"
 owner = 606386929130405898
 
 
 
-prefix = "c!"
+prefix = "s2017"
 
 
 
-game = "Camping Till Die"
+game = "Be Alone"
 
 
 
