@@ -1,4 +1,4 @@
-token = "mfa.PWzdG9v2WtFkh0wztCp76HmsTuNKYuwdUiRfH2EMV_SdtwMqqMzsFUUUwLaklaCktmQ7d9XA1Qa1q3dwp2kk"
+token = ""
 owner = 606386929130405898
 
 
