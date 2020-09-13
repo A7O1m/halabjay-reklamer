@@ -1,13 +1,13 @@
-token = ""
+token = "NzU0NjM1ODk0MjMyNzExMjAx.X13ncQ.4GswiCHh8LH0JwWYN1TxTsqoGuA"
 owner = 606386929130405898
 
 
 
-prefix = "s2017"
+prefix = "%"
 
 
 
-game = "Be Alone"
+game = "Camping Till Die"
 
 
 
