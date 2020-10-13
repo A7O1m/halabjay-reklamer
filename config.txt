@@ -1,8 +1,8 @@
-
-owner = 
-token = ""
-
-prefix = "%"
+{
+  "TOKEN": "",
+  "PREFIX": "%"
+ 
+}
 
 
 
