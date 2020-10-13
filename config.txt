@@ -1,8 +1,7 @@
 {
   "TOKEN": "",
   "PREFIX": "%",
-  "game": "&help Bot BY Cg》DADA・LAVA👸"
-}
+  "game": "&help Bot BY Cg》DADA・LAVA👸
 
 
 
@@ -89,3 +88,5 @@ aliases {
 
 
 eval=false
+"
+}
