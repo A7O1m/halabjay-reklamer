@@ -1,6 +1,5 @@
-token = "NzU0NjM1ODk0MjMyNzExMjAx.X13ncQ.nDGp3Ye-6g4aQy8kmTxjE2FRsHc"
-owner = 606386929130405898
-
+token = ""
+owner = 
 
 
 prefix = "%"
