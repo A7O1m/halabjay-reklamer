@@ -1,6 +1,6 @@
 
 owner = 
-
+token =("")
 
 prefix = "%"
 
