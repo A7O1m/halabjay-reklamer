@@ -1,4 +1,4 @@
-token = "NzY1Njc2ODQwNDcxMzYzNTk0.X4YSIA.u8w2npOy4ntmcV0S19CVBuligf0"
+
 owner = 
 
 
